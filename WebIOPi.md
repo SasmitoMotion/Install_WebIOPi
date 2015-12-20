@@ -35,9 +35,11 @@ the assign ip address or web address will be shown after enterin above command :
 note : localhost this your ip address and port this example running but you must check your ip
 
         localhost : 8000/webiopi/ or http://192.168.2.10:8000/webiopi/
-        username : webiopi
-        password : raspberry
+        username  : webiopi
+        password  : raspberry
         
 note : if the some command error or corrupt maybe you can to copy the error command and paste to google
 
-Refference : https://kushrami.wordpress.com/2015/02/02/tutorial-get-started-with-webiopi/ http://webiopi.trouch.com/  http://syaefaanjar.blogspot.co.id/2015/05/menginstal-update-webopi-071-pada.html
+Refference : https://kushrami.wordpress.com/2015/02/02/tutorial-get-started-with-webiopi/ 
+             http://webiopi.trouch.com/  
+             http://syaefaanjar.blogspot.co.id/2015/05/menginstal-update-webopi-071-pada.html
